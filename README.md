@@ -1,7 +1,6 @@
-# unity2022
-Desafío 5 del curso de Unity 2022 programa codo-a-codo
+# Desafío 5 
+curso de Unity 2022 programa codo-a-codo
 
-Desafío 5 
 Clase 9
 Fecha de entrega: sábado 8 de octubre
 
